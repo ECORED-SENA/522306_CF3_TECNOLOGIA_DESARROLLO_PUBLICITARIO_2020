@@ -47,7 +47,7 @@
   },
   {
     "id": 2,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "software",
     "title": "2. Manejo de software de diseño vectorial",
     "breadcrumb": [
@@ -57,13 +57,13 @@
     "path": "pages/tema_2.html",
     "submenu": [
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "software",
         "title": "2.1 Software de diseño vectorial en el mercado",
         "anchor": "tema2_1"
       },
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "software",
         "title": "2.2 Manejo de Illustrator",
         "anchor": "tema2_2"
